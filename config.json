@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdave",
+        "uuid": 1509855,
+        "checksum": "e7adrm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
